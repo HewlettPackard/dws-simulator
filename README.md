@@ -5,3 +5,5 @@ The Data Workflow Services (DWS) Simulator contains the schema for the Data Work
 ## Contributing
 
 Before opening an issue or pull request, please read the [Contributing] guide.
+
+[contributing]: CONTRIBUTING.md
