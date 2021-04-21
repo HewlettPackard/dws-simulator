@@ -1,6 +1,11 @@
 We welcome contributions to dws-simulator.
 
-# Developer's Certificate of Origin
+# Pull Requests
+The dws-simulator repository follows the standard GitHub fork+pull model.  We accept GitHub pull requests.
+
+Fork the project on GitHub, work in your fork and in branches, push these to your GitHub fork, and when ready, open up a GitHub pull request against https://github.com/HewlettPackard/dws-simulator.
+
+## Developer's Certificate of Origin
 
 All contributions must include acceptance of the DCO:
 
@@ -36,7 +41,7 @@ All contributions must include acceptance of the DCO:
 > indefinitely and may be redistributed consistent with this project or
 > the open source license(s) involved.
 
-## Sign Your Work
+### Sign Your Work
 
 To accept the DCO, simply add this line to each commit message with your name and email address (`git commit -s` will do this for you):
 
